@@ -1,8 +1,4 @@
-# React + Vite
+PND EXPLORE USING REACT - PUBLIC NEWS DROID MADE BY RATNEESH PANDEY
+FOR COLLEGE PROJECT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Public News Droid is an Advanced and Informative System helping the users to know the news, articles or any interesting things happening around their Locality.
